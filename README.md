@@ -24,12 +24,12 @@ Certifique-se de ter o Python 3 instalado.
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/algoritmos-e-complexidade.git
+git clone https://github.com/seu-usuario/Atividade---algoritmos-e-complexidade.git
 
 
 Entre na pasta:
 
-cd algoritmos-e-complexidade
+cd Atividade---algoritmos-e-complexidade
 
 
 Execute os códigos:
