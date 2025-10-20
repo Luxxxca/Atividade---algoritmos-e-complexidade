@@ -18,3 +18,6 @@ Código	Descrição	Complexidade
 algoritmo_constante.py	Exemplo de operação com tempo constante	O(1)
 algoritmo_linear.py	Percorre uma lista e realiza operações lineares	O(n)
 algoritmo_quadratico.py	Compara elementos em pares (loops aninhados) O(n²)
+
+IMPORTANTE!
+Ao importar este código do PowerShell para o Colab, pode ocorrer um erro de indentação. Esse problema foi detectado e corrigido automaticamente pelo Gemini.
